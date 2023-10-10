@@ -1,0 +1,15 @@
+main {
+    height: 100vh;
+    background: url(https://www.tuescaladenotas.com/wp-content/themes/escala/images/background/9.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.container {
+    background-color: rgba(105, 203, 228, 0.438);
+}
+label {
+    font-weight: bold;
+}
